@@ -1,0 +1,2 @@
+Os testes iram representar uma enorme importância no processo de desenvolvimento de software, pois visam validar se o sistema está funcionando e atender os requisitos específicos, será aplicada diversas técnicas em diferentes momentos e de diferentes formas para validar os aspectos principais do software.
+Para evitarmos que o processo de teste seja uma mera etapa de do ciclo de desenvolvimento, a implantação de um processo relacionado a este garante um maior controle das atividades de teste, e consequentemente, mais qualidade ao software.
